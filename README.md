@@ -2,22 +2,22 @@
 
 I'm an **AI Engineer** with a background in **Data Science, AI Software, Football Analytics, and Scouting** 🤖🏈
 
-I build **AI systems** and **software** that turn complex data into **actionable insights**, **intelligent decisions**, and **real-world applications**.
+I build **AI systems** and **software** that turn complex data into **actionable insights, intelligent decisions, and real-world applications**.
 
 I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, NCAA, the U.S. Department of Defense, and the U.S. General Services Administration** 🚀
 
 ### 🎓 Education
 
-- 🐢 **University of Maryland, College-Park** — M.S. Data Analytics
+- 🐢 **University of Maryland, College Park** — M.S. Data Analytics
 - 🐦 **Salisbury University** — B.S. Economics
 
 ### 🧠 What I Build
 
 - 🤖 **AI & Machine Learning** — LLMs, AI Agents, predictive models
 - 🧩 **AI Applications** — intelligent tools and decision-support systems
-- 📊 **Data Science** — analytics, modeling, visualization
+- 📊 **Data Science** — analytics, modeling, and visualization
 - 👁️ **Computer Vision & OCR** — perception, detection, image analysis, and edge AI
-- 🏈 **Football Analytics** — scouting, player evaluation, strategy & performance
+- 🏈 **Football Analytics** — scouting, player evaluation, strategy, and performance
 - 🤖 **Edge AI & Robotics** — AI-powered physical systems
 
 ### 🛠️ Tech Stack
@@ -30,22 +30,22 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 ### ⭐ Featured Projects
 
-**4th Down Decision Engine**  
-Win probability & conversion modeling for fourth-down decisions
+🎯 **4th Down Decision Engine**  
+Win probability and conversion modeling for fourth-down decisions
 
-✨✨✨✨ **FootStall** ✨✨✨✨
-AI-powered football playbook, player development & coaching platform
+🏈 **FootStall**  
+AI-powered football playbook, player development, and coaching platform
 
-**Free Agency Builder**  
-Data-driven NFL free-agent valuation & roster optimization
+💰 **Free Agency Builder**  
+Data-driven NFL free-agent valuation and roster optimization
 
-**InvestAI**  
-AI-powered investment analytics, financial modeling & market intelligence
+📈 **InvestAI**  
+AI-powered investment analytics, financial modeling, and market intelligence
 
-**Defensive Identity Score**  
-Data-driven framework for evaluating defensive performance & identity
+🛡️ **Defensive Identity Score**  
+Data-driven framework for evaluating defensive performance and identity
 
-**Macro Level Metrics Model**  
+📊 **Macro Level Metrics Model**  
 Advanced football analytics for evaluating team-level performance and trends
 <!--
 **jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
