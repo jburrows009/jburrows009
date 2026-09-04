@@ -32,21 +32,27 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 🎯 **4th Down Decision Engine**  
 Win probability and conversion modeling for fourth-down decisions
+________________________________________________________________________
 
 ✨✨✨✨ **FootStall**✨✨✨✨  
 AI-powered football playbook, player development, and coaching platform
+________________________________________________________________________
 
 💰 **Free Agency Builder**  
 Data-driven NFL free-agent valuation and roster optimization
+________________________________________________________________________
 
 📈 **InvestAI**  
 AI-powered investment analytics, financial modeling, and market intelligence
+________________________________________________________________________
 
 🛡️ **Defensive Identity Score**  
 Data-driven framework for evaluating defensive performance and identity
+________________________________________________________________________
 
 📊 **Macro Level Metrics Model**  
 Advanced football analytics for evaluating team-level performance and trends
+________________________________________________________________________
 <!--
 **jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
