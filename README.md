@@ -22,12 +22,6 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 **AI/ML:** PyTorch • Scikit-learn • LLMs • AI Agents
 
 **Software:** FastAPI • Streamlit • React • Next.js • Tailwind CSS
-
-### 🚀 What I'm Interested In
-
-Building at the intersection of **AI + data + software + real-world problems**.
-
-Always experimenting. Always building.
 <!--
 **jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
