@@ -33,7 +33,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 🎯 **4th Down Decision Engine**  
 Win probability & conversion modeling for fourth-down decisions
 
-✨✨✨✨ **FootStall**  ✨✨✨✨
+✨✨✨✨ **FootStall** ✨✨✨✨
 AI-powered football playbook, player development & coaching platform
 
 💰 **Free Agency Builder**  
