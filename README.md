@@ -4,7 +4,7 @@ I'm an **AI Engineer** from Maryland with an 8+ year background in **Data Scienc
 
 I build **AI systems** and **software** that turn complex data into **intelligent decisions and real-world applications**
 
-I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, NCAA, the U.S. Department of Defense, and the U.S. General Services Administration** 🚀
+I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, NCAA, the U.S. Department of Defense, and the U.S. General Services Administration**
 
 ### 🎓 EDUCATION
 
