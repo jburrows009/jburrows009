@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 . . .
 
 I'm an **AI Engineer** with a background in **Data Science, AI Software, Football Analytics, and Scouting** 🤖🏈
 
