@@ -19,9 +19,9 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 - **Computer Vision & OCR** — image analysis, object detection, document processing, OCR, and visual intelligence
 - **Data Science & Analytics** — statistical modeling, forecasting, optimization, data pipelines, and visualization
 - **Data Engineering & Database Management** — data pipelines, vector databases, data storage, query engines, and data lakehouse
-- **Cloud & Hybrid Infrastructure** — AWS, Azure, GCP, IBM Cloud, open/hybrid cloud environments, containerized workloads
+- **Cloud & Hybrid Infrastructure** — AWS, Azure, GCP, IBM Cloud, open/hybrid cloud environments, and containerized workloads
 - **Data Governance & AI Governance** — data quality, AI governance, model oversight, and enterprise data management
-- **AI Compute & Robotics** — AI infrastructure, NVIDIA Jetson, computer vision, robotics, and AI-powered physical systems
+- **AI Compute & Robotics** — AI infrastructure, NVIDIA Jetson Nano, and AI-powered physical systems
 - **Football Intelligence** — player evaluation, scouting, roster construction, coaching strategy, and performance analytics
 
 ### 🛠️ TECH STACK
