@@ -16,7 +16,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 - 🤖 **AI & Machine Learning** — LLMs, AI Agents, predictive models
 - 🧩 **AI Applications** — intelligent tools and decision-support systems
 - 📊 **Data Science** — analytics, modeling, visualization
-- 👁️ **Computer Vision** — perception, detection, and edge AI
+- 👁️ **Computer Vision & OCR** — perception, detection, image analysis, and edge AI
 - 🏈 **Football Analytics** — scouting, player evaluation, strategy & performance
 - 🤖 **Edge AI & Robotics** — AI-powered physical systems
 
