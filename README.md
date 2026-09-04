@@ -15,7 +15,6 @@ My work covers a range of AI and software projects, including:
 •	Decision-Support Systems
 •	Edge AI and Robotics
 •	Football Analytics and Scouting
-<img width="468" height="406" alt="image" src="https://github.com/user-attachments/assets/cce7776b-cb7e-4917-8c90-35c4343bb4bb" />
 <!--
 **jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
