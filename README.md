@@ -34,9 +34,9 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 ✨✨✨✨ **FootStall** — AI-powered football playbook, player development & coaching platform (**FALL 2026**)✨✨✨✨
 
-💰 **Free Agency Builder** — Data-driven NFL free-agent valuation & roster optimization
-
 📈 **InvestAI** — AI-powered investment analytics, financial modeling & market intelligence
+
+💰 **Free Agency Builder** — Data-driven NFL free-agent valuation & roster optimization
 
 🛡️ **Defensive Identity Score** — Data-driven framework for evaluating defensive performance & identity
 
