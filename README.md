@@ -12,14 +12,15 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
  
 **Salisbury University** — B.S. Economics
 
-### 🧠 WHAT I BUILD
+### 🧠 AI & ENGINEERING FOCUS
 
--  **AI & Machine Learning** — LLMs, AI Agents, predictive models
--  **AI Applications** — intelligent tools and decision-support systems
--  **Data Science** — analytics, modeling, and visualization
--  **Computer Vision & OCR** — perception, detection, image analysis, and edge AI
--  **Football Analytics** — scouting, player evaluation, strategy, and performance
--  **Edge AI & Robotics** — AI-powered physical systems
+- **AI & Machine Learning** — AI agents, AI assistants, LLMs, RAG, predictive modeling, and deep learning
+- **AI Applications & Decision Systems** — intelligent applications, workflow automation, and data-driven decision support
+- **Computer Vision & OCR** — image analysis, object detection, document processing, OCR, and visual intelligence
+- **Data Science & Analytics** — statistical modeling, forecasting, optimization, data pipelines, and visualization
+- **Football Intelligence** — player evaluation, scouting, roster construction, coaching strategy, and performance analytics
+- **Optimization & Simulation** — mathematical optimization, decision optimization, simulations, and predictive systems
+- **Edge AI & Robotics** — computer vision, NVIDIA Jetson, autonomous systems, and AI-powered physical applications
 
 ### 🛠️ TECH STACK
 
