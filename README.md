@@ -8,8 +8,8 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 ### 🎓 EDUCATION
 
-- 🐢 **University of Maryland, College Park** — M.S. Data Analytics
-- 🐦 **Salisbury University** — B.S. Economics
+- **University of Maryland, College Park** — M.S. Data Analytics
+- **Salisbury University** — B.S. Economics
 
 ### 🧠 WHAT I BUILD
 
