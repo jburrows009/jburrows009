@@ -1,26 +1,26 @@
-# Hi there 👋 . . .
+# Hi there 🤖 . . .
 
-I'm an **AI Engineer** with an 8+ year background in **Data Science, AI Software, Football Analytics, and Scouting** 🤖🏈
+I'm an **AI Engineer** with an 8+ year background in **Data Science, AI Software, Football Analytics, and Scouting** 
 
 I build **AI systems** and **software** that turn complex data into **intelligent decisions and real-world applications**.
 
 I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, NCAA, the U.S. Department of Defense, and the U.S. General Services Administration** 🚀
 
-### 🎓 Education
+### 🎓 EDUCATION
 
 - 🐢 **University of Maryland, College Park** — M.S. Data Analytics
 - 🐦 **Salisbury University** — B.S. Economics
 
-### 🧠 What I Build
+### 🧠 WHAT I BUILD
 
-- 🤖 **AI & Machine Learning** — LLMs, AI Agents, predictive models
-- 🧩 **AI Applications** — intelligent tools and decision-support systems
-- 📊 **Data Science** — analytics, modeling, and visualization
-- 👁️ **Computer Vision & OCR** — perception, detection, image analysis, and edge AI
-- 🏈 **Football Analytics** — scouting, player evaluation, strategy, and performance
-- 🤖 **Edge AI & Robotics** — AI-powered physical systems
+-  **AI & Machine Learning** — LLMs, AI Agents, predictive models
+-  **AI Applications** — intelligent tools and decision-support systems
+-  **Data Science** — analytics, modeling, and visualization
+-  **Computer Vision & OCR** — perception, detection, image analysis, and edge AI
+-  **Football Analytics** — scouting, player evaluation, strategy, and performance
+-  **Edge AI & Robotics** — AI-powered physical systems
 
-### 🛠️ Tech Stack
+### 🛠️ TECH STACK
 
 **Languages:** Python • SQL • R • JavaScript
 
@@ -28,7 +28,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 **Software:** FastAPI • Streamlit • React • Next.js • Tailwind CSS
 
-### ⭐ Featured Projects
+### ⭐ FEATURED PROJECTS
 
 🎯 **4th Down Decision Engine**  
 Win probability and conversion modeling for fourth-down decisions
