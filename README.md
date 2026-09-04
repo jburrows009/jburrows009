@@ -2,7 +2,7 @@
 
 I'm an **AI Engineer** with a background in **Data Science, AI Software, Football Analytics, and Scouting** 🤖🏈
 
-I build AI and software that turn complex data into **useful decisions, products, and real-world systems**.
+I build AI systems and software that turn complex data into actionable insights, intelligent decisions, and real-world applications**.
 
 I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, the U.S. Department of Defense, and the U.S. General Services Administration** 🚀
 
@@ -27,6 +27,20 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 **AI/ML:** PyTorch • Scikit-learn • LLMs • AI Agents
 
 **Software:** FastAPI • Streamlit • React • Next.js • Tailwind CSS
+
+### ⭐ Featured Projects
+
+🎯 **4th Down Decision Engine** — Win probability & conversion modeling for fourth-down decisions
+
+🏈✨✨✨✨ **FootStall** — AI-powered football playbook, player development & coaching platform (FALL 2026)✨✨✨✨
+
+💰 **Free Agency Builder** — Data-driven NFL free-agent valuation & roster optimization
+
+📈 **InvestAI** — AI-powered investment analytics, financial modeling & market intelligence
+
+🛡️ **Defensive Identity Score** — Data-driven framework for evaluating defensive performance & identity
+
+📊 **Macro Level Metrics Model** — Advanced football analytics for evaluating team-level performance and trends
 <!--
 **jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
