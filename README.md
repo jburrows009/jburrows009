@@ -34,7 +34,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 Win probability & conversion modeling for fourth-down decisions
 
 ✨✨✨✨ **FootStall** ✨✨✨✨
- AI-powered football playbook, player development & coaching platform
+AI-powered football playbook, player development & coaching platform
 
 **Free Agency Builder**  
 Data-driven NFL free-agent valuation & roster optimization
