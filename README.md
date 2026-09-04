@@ -18,7 +18,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 - **AI Applications & Decision Systems** — intelligent applications, workflow automation, and data-driven decision support
 - **Computer Vision & OCR** — image analysis, document processing, OCR, and visual intelligence
 - **Data Science & Analytics** — statistical modeling, forecasting, optimization, data pipelines, and visualization
-- **Data Engineering & Database Management** — data pipelines, vector databases, data storage, query engines, and data lakehouse
+- **Data Engineering & OEM** — data pipelines, vector databases, data storage, query engines, and data lakehouse
 - **Cloud & Hybrid Infrastructure** — AWS, Azure, GCP, IBM Cloud, open/hybrid cloud environments, and containerized workloads
 - **Data Governance & AI Governance** — data quality, AI governance, model oversight, and enterprise data management
 - **AI Compute & Robotics** — AI infrastructure, NVIDIA Jetson Nano, object detection and AI-powered physical systems
