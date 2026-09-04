@@ -1,6 +1,6 @@
 # Hi there 👋 . . .
 
-I'm an **AI Engineer** with a background in **Data Science, AI Software, Football Analytics, and Scouting** 🤖🏈
+I'm an **AI Engineer** with an 8+ year background in **Data Science, AI Software, Football Analytics, and Scouting** 🤖🏈
 
 I build **AI systems** and **software** that turn complex data into **actionable insights, intelligent decisions, and real-world applications**.
 
