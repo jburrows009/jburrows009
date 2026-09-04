@@ -14,13 +14,15 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 ### 🧠 AI & ENGINEERING FOCUS
 
-- **AI & Machine Learning** — AI agents, AI assistants, LLMs, RAG, predictive modeling, and deep learning
-- **AI Applications & Decision Systems** — intelligent applications, workflow automation, and data-driven decision support
+- **AI, Machine Learning & Deep Learning** — LLMs, AI agents, AI assistants, RAG, PyTorch, predictive modeling, and deep learning
+- **AI Applications & Decision Systems** — intelligent applications, workflow automation, orchestration, and data-driven decision support
 - **Computer Vision & OCR** — image analysis, object detection, document processing, OCR, and visual intelligence
 - **Data Science & Analytics** — statistical modeling, forecasting, optimization, data pipelines, and visualization
+- **Data Engineering & Database Management** — data pipelines, vector databases, data storage, query engines, and data lakehouse
+- **Cloud & Hybrid Infrastructure** — AWS, Azure, GCP, IBM Cloud, open/hybrid cloud environments, containerized workloads
+- **Data Governance & AI Governance** — data quality, AI governance, model oversight, and enterprise data management
+- **AI Compute & Robotics** — AI infrastructure, NVIDIA Jetson, computer vision, robotics, and AI-powered physical systems
 - **Football Intelligence** — player evaluation, scouting, roster construction, coaching strategy, and performance analytics
-- **Optimization & Simulation** — mathematical optimization, decision optimization, simulations, and predictive systems
-- **Edge AI & Robotics** — computer vision, NVIDIA Jetson, autonomous systems, and AI-powered physical applications
 
 ### 🛠️ TECH STACK
 
