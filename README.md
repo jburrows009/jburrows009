@@ -6,6 +6,11 @@ I build AI and software that turn complex data into **useful decisions, products
 
 I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, the U.S. Department of Defense, and the U.S. General Services Administration** 🚀
 
+### 🎓 Education
+
+- 🐢 **University of Maryland, College Park** — M.S. Data Analytics
+- 🐦 **Salisbury University** — B.S. Economics
+
 ### 🧠 What I Build
 
 - 🤖 **AI & Machine Learning** — LLMs, AI Agents, predictive models
