@@ -35,28 +35,32 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 ### ⭐ FEATURED PROJECTS
 
 🎯 **4th Down Decision Engine**  
-Win probability and conversion modeling for fourth-down decisions
-________________________________________________________________________
+Machine learning decision-support system that evaluates fourth-down situations using conversion probability and win probability to recommend whether to attempt a conversion, punt, or take an alternative decision. Combines predictive modeling, game-state analysis, and decision optimization to translate football data into actionable coaching recommendations.
 
-✨✨✨✨ **FootStall**✨✨✨✨  
-AI-powered football playbook, player development, and coaching platform
-________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
+
+🌟🌟🌟🌟 **FootStall** 🌟🌟🌟🌟  
+AI-powered football intelligence and player development platform designed to help coaches and players organize, understand, and interact with football knowledge. Combines playbook intelligence, player development, football analytics, and AI-driven decision support into a unified coaching platform.
+
+_______________________________________________________________________________________________________________________________________
 
 💰 **Free Agency Builder**  
-Data-driven NFL free-agent valuation and roster optimization
-________________________________________________________________________
+NFL roster construction and free-agent optimization platform designed to evaluate player value, salary-cap impact, roster needs, and acquisition scenarios. Combines football analytics, financial modeling, mathematical optimization, and AI to support data-driven free-agency and roster-building decisions.
+
+_______________________________________________________________________________________________________________________________________
 
 📈 **InvestAI**  
-AI-powered investment analytics, financial modeling, and market intelligence
-________________________________________________________________________
+AI-powered investment analytics platform designed to combine financial data, quantitative analysis, market indicators, and predictive modeling into an integrated investment research and decision-support system.
 
-🛡️ **Defensive Identity Score**  
-Data-driven framework for evaluating defensive performance and identity
-________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
+
+🛡️ **Defensive Identity Score (DIS)**  
+Football analytics framework that evaluates NFL defenses across multiple weighted performance dimensions to quantify defensive identity and generate league-wide rankings. The model incorporates measures such as pressure, explosive plays, EPA, third-down defense, red-zone defense, run defense, takeaways, and simulated pressure success.
+
+_______________________________________________________________________________________________________________________________________
 
 📊 **Macro Level Metrics Model**  
-Advanced football analytics for evaluating team-level performance and trends
-________________________________________________________________________
+Team-level football analytics framework designed to evaluate broader performance trends beyond individual plays or players. Uses aggregated offensive, defensive, and situational metrics to identify team strengths, weaknesses, performance patterns, and strategic trends.
 <!--
 **jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
