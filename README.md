@@ -6,13 +6,13 @@ I build **AI systems** and **software** that turn complex data into **intelligen
 
 I've worked across projects supporting organizations connected to **IBM, NASA, the NFL, NCAA, the U.S. Department of Defense, and the U.S. General Services Administration**
 
-### 🎓 EDUCATION
+### EDUCATION
 
 **University of Maryland, College Park** — M.S. Data Analytics
  
 **Salisbury University** — B.S. Economics
 
-### 🧠 AI & ENGINEERING FOCUS
+### AI & ENGINEERING FOCUS
 
 - **AI, Machine Learning & Deep Learning** — LLMs, AI agents, AI assistants, PyTorch, predictive modeling, and deep learning
 - **AI Applications & Decision Systems** — intelligent applications, workflow automation, and data-driven decision support
@@ -24,7 +24,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 - **AI Compute & Robotics** — AI infrastructure, NVIDIA Jetson Nano, object detection and AI-powered physical systems
 - **Football Intelligence** — player evaluation, scouting, roster construction, coaching strategy, and performance analytics
 
-### 🛠️ TECH STACK
+### TECH STACK
 
 **Languages:** Python • SQL • R • JavaScript
 
@@ -32,7 +32,7 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 **Software:** FastAPI • Streamlit • React • Next.js • Tailwind CSS
 
-### ⭐ FEATURED PROJECTS
+### FEATURED PROJECTS
 
 🎯 **4th Down Decision Engine**  
 Machine learning decision-support system that evaluates fourth-down situations using conversion probability and win probability to recommend whether to attempt a conversion, punt, or take an alternative decision. Combines predictive modeling, game-state analysis, and decision optimization to translate football data into actionable coaching recommendations.
