@@ -39,7 +39,7 @@ Machine learning decision-support system that evaluates fourth-down situations u
 
 _______________________________________________________________________________________________________________________________________
 
-🌟🌟🌟🌟 **FootStall** 🌟🌟🌟🌟  
+🌟 **FootStall**   
 AI-powered football intelligence and player development platform designed to help coaches and players organize, understand, and interact with football knowledge. Combines playbook intelligence, player development, football analytics, and AI-driven decision support into a unified coaching platform.
 
 _______________________________________________________________________________________________________________________________________
