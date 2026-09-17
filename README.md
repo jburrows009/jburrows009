@@ -34,6 +34,11 @@ I've worked across projects supporting organizations connected to **IBM, NASA, t
 
 ### FEATURED PROJECTS
 
+📊 **Macro Level Metrics Model**  
+Team-level football analytics framework designed to evaluate broader performance trends beyond individual plays or players. Uses aggregated offensive, defensive, and situational metrics to identify team strengths, weaknesses, performance patterns, and strategic trends.
+
+_______________________________________________________________________________________________________________________________________
+
 🎯 **4th Down Decision Engine**  
 Machine learning decision-support system that evaluates fourth-down situations using conversion probability and win probability to recommend whether to attempt a conversion, punt, or take an alternative decision. Combines predictive modeling, game-state analysis, and decision optimization to translate football data into actionable coaching recommendations.
 
@@ -56,22 +61,3 @@ ________________________________________________________________________________
 
 🛡️ **Defensive Identity Score (DIS)**  
 Football analytics framework that evaluates NFL defenses across multiple weighted performance dimensions to quantify defensive identity and generate league-wide rankings. The model incorporates measures such as pressure, explosive plays, EPA, third-down defense, red-zone defense, run defense, takeaways, and simulated pressure success.
-
-_______________________________________________________________________________________________________________________________________
-
-📊 **Macro Level Metrics Model**  
-Team-level football analytics framework designed to evaluate broader performance trends beyond individual plays or players. Uses aggregated offensive, defensive, and situational metrics to identify team strengths, weaknesses, performance patterns, and strategic trends.
-<!--
-**jburrows009/jburrows009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
