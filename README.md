@@ -44,11 +44,6 @@ Machine learning decision-support system that evaluates fourth-down situations u
 
 _______________________________________________________________________________________________________________________________________
 
-🌟 **FootStall**   
-AI-powered football intelligence and player development platform designed to help coaches and players organize, understand, and interact with football knowledge. Combines playbook intelligence, player development, football analytics, and AI-driven decision support into a unified coaching platform.
-
-_______________________________________________________________________________________________________________________________________
-
 💰 **Free Agency Builder**  
 NFL roster construction and free-agent optimization platform designed to evaluate player value, salary-cap impact, roster needs, and acquisition scenarios. Combines football analytics, financial modeling, mathematical optimization, and AI to support data-driven free-agency and roster-building decisions.
 
