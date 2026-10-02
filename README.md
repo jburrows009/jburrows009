@@ -1,4 +1,4 @@
-# Hello 😄 . . .
+# Hello 😁 . . .
 
 I'm an **AI Engineer** from Maryland with a 6+ year background in **Data Science, AI Software, Football Analytics and Scouting** 
 
