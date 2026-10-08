@@ -39,8 +39,8 @@ Team-level football analytics framework designed to evaluate broader performance
 
 _______________________________________________________________________________________________________________________________________
 
-🎯 **4th Down Decision Engine**  
-Machine learning decision-support system that evaluates fourth-down situations using conversion probability and win probability to recommend whether to attempt a conversion, punt, or take an alternative decision. Combines predictive modeling, game-state analysis, and decision optimization to translate football data into actionable coaching recommendations.
+🏦 **Software Pricing Configurator**  
+Intelligent software licensing and pricing optimization platform designed to determine the highest defensible price for software solutions based on customer value, market conditions, solution complexity, licensing structure, customization requirements, and ongoing delivery costs. Combines value-based pricing, market analysis, cost modeling, licensing economics, and configurable business constraints to generate optimized monthly, annual, perpetual, buyout, and customized pricing recommendations.
 
 _______________________________________________________________________________________________________________________________________
 
